@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "reasons-why-dulquer-salmaan-is-worth-all-the-hype-amp-deserves-to-be-b-towns-latest-youth-icon-1200x900-1568897939.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
